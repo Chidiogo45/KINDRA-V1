@@ -1,0 +1,6 @@
+{
+  "name": "KINDRA — Documentary Intelligence & Production Workstation",
+  "description": "Professional intelligence and production workstation for documentary creators. Covers market discovery, historical research, beat scripting, fact-checking, Gemini TTS narration, archival visual matching, and CapCut export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
